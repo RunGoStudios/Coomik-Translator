@@ -1,46 +1,45 @@
-Privacy Policy for Coomik Translator
+Política de Privacidade do Coomik Translator
 
-Last updated: January 13, 2026
+Última atualização: 15 de janeiro de 2026
 
-1. Introduction
-Welcome to Coomik Translator. This Privacy Policy explains how Coomik Translator ("we", "us", or "our") collects, uses, and discloses information about you when you use our mobile application (the "App").
+1. Introdução
+Bem-vindo ao Coomik Translator. Esta Política de Privacidade explica como o Coomik Translator ("nós", "nosso" ou "o Aplicativo") coleta, usa e protege as informações quando você utiliza nosso aplicativo móvel. Estamos comprometidos em respeitar a sua privacidade e garantir a transparência sobre como seus dados são tratados.
 
-2. Information Collection and Use
+2. Coleta e Uso de Informações
 
-2.1. Personal Data
-We do not explicitly collect or store personal identification information (such as your name, email address, or phone number). The App is designed to function primarily as a tool for translating comic files stored locally on your device.
+2.1. Dados Pessoais
+Nós não coletamos, armazenamos ou compartilhamos explicitamente informações de identificação pessoal (como seu nome, endereço de e-mail ou número de telefone). O Aplicativo foi projetado para funcionar principalmente como uma ferramenta local para tradução de arquivos de quadrinhos armazenados no seu dispositivo.
 
-2.2. Files and Media
-The App requires access to your device's storage to read comic files (archives or images) that you choose to translate.
-- Local Processing: We use on-device machine learning technologies (Google ML Kit) for Optical Character Recognition (OCR) and some translation tasks. This processing happens on your device.
-- Cloud Processing: If you choose to use the "Gemini" translation model, the text extracted from your images is sent to Google's Gemini API for translation. We do not store this content on our own servers; it is processed by Google in accordance with their privacy policies.
+2.2. Arquivos e Conteúdo de Mídia
+O Aplicativo requer acesso ao armazenamento do seu dispositivo para ler e processar os arquivos de quadrinhos (arquivos .zip, .cbz, imagens) que você escolhe traduzir.
+- Processamento Local: Utilizamos tecnologias de aprendizado de máquina no dispositivo (Google ML Kit) para Reconhecimento Óptico de Caracteres (OCR) e identificação de texto. Este processamento ocorre inteiramente no seu dispositivo, e os dados brutos das imagens não são enviados para nossos servidores.
+- Processamento em Nuvem (Opcional): Se você optar por utilizar o modelo de tradução "Gemini" (Inteligência Artificial do Google), o texto extraído das imagens será enviado para a API do Google Gemini para tradução. Não armazenamos este conteúdo em nossos servidores; ele é processado pelo Google de acordo com suas próprias políticas de privacidade e termos de serviço de IA.
 
-2.3. Device Information and Log Data
-The App uses third-party services that may collect information used to identify you.
-- Google Mobile Ads (AdMob): We use AdMob to display advertisements. AdMob may collect data such as your device's advertising ID, IP address, and usage data to provide personalized ads and analytics.
+2.3. Publicidade e Dados do Dispositivo
+O Aplicativo utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo para fins de publicidade e análise.
+- Google AdMob: Utilizamos o AdMob para exibir anúncios. O AdMob pode coletar identificadores de dispositivo (como o ID de Publicidade do Android), endereço IP e dados de uso para fornecer anúncios personalizados e medir a eficácia da publicidade.
 
-3. Third-Party Services
-We may use third-party companies and services to facilitate our App and provide its services. Valid links to the privacy policies of the third-party service providers used by the App are:
+3. Permissões do Aplicativo
+O Coomik Translator solicita as seguintes permissões para funcionar corretamente:
+- Armazenamento (Ler/Escrever): Necessário para selecionar arquivos de quadrinhos no seu dispositivo e salvar as versões traduzidas ou exportadas.
+- Internet/Rede: Necessário para conectar-se à API do Google Gemini (para traduções via IA) e para carregar anúncios do AdMob.
+- Notificações: Utilizado para informar quando um processo de tradução longo e em segundo plano foi concluído.
 
+4. Serviços de Terceiros
+Podemos utilizar empresas e serviços de terceiros para facilitar nosso serviço. Recomendamos que você leia as políticas de privacidade desses provedores:
 - Google Play Services: https://policies.google.com/privacy
-- AdMob (Google): https://support.google.com/admob/answer/6128543?hl=en
+- AdMob (Google): https://support.google.com/admob/answer/6128543
 - Google Gemini API: https://policies.google.com/privacy
 - Google ML Kit: https://developers.google.com/ml-kit/terms
 
-4. Permissions
-The App requests the following permissions to function:
-- Storage/Files: To select and save translated comic files.
-- Internet/Network: To fetch translations from the Gemini API and to load advertisements.
-- Notifications: To notify you when a long-running translation task is complete.
+5. Segurança dos Dados
+Valorizamos sua confiança ao usar nosso Aplicativo. Empregamos meios comercialmente aceitáveis para proteger seus dados. Ressaltamos que nenhum método de transmissão pela internet ou armazenamento eletrônico é 100% seguro. É importante notar que não fazemos backup nem armazenamos seus arquivos de quadrinhos pessoais em nossos servidores.
 
-5. Data Security
-We value your trust in providing us your information (via the files you process). While no method of transmission over the internet or method of electronic storage is 100% secure, we strive to use commercially acceptable means to protect it. We do not store your comic files on our servers.
+6. Privacidade de Crianças
+Nossos serviços não são direcionados a menores de 13 anos. Não coletamos intencionalmente informações de identificação pessoal de crianças menores de 13 anos.
 
-6. Children's Privacy
-Our Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+7. Alterações nesta Política de Privacidade
+Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos que você revise esta página regularmente para verificar quaisquer alterações. Notificaremos você sobre quaisquer mudanças publicando a nova Política de Privacidade nesta página.
 
-7. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-8. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Your Contact Email].
+8. Contato
+Se você tiver dúvidas ou sugestões sobre nossa Política de Privacidade, não hesite em entrar em contato conosco pelo e-mail: [rungostudios.oficial@gmail.com].
