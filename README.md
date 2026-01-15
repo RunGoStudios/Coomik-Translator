@@ -16,7 +16,7 @@ O objetivo deste repositório é garantir **transparência**, **acessibilidade**
 ## 📄 Acessar Políticas
 
 - **Política de Privacidade e Termos de Uso:**  
-  Consulte o arquivo principal [`policy-en.md`](./policy-en.md) [`policy-pt-br.md`](./policy-pt-br.md) (ou nome equivalente no seu repositório).
+  Consulte o arquivo principal [`policy-en.md`](./privacy-en.md) [`policy-pt-br.md`](./privacy-pt-br.md) (ou nome equivalente no seu repositório).
 
 ---
 
