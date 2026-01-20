@@ -1,118 +1,91 @@
-# Política de Privacidade e Termos de Uso — Coomik Translator
+# Política de Privacidade
 
-**Última atualização: 15 de janeiro de 2026**
+**Última atualização: 19 de janeiro de 2026**
 
----
+A sua privacidade é importante para nós. Esta Política de Privacidade explica como o aplicativo **Coomik Translator** (“nós”, “nosso” ou “o Aplicativo”) coleta, usa, armazena e compartilha suas informações. Ao utilizar o Aplicativo, você concorda com as práticas descritas nesta Política.
 
-## 1. Introdução
-Bem-vindo ao Coomik Translator. Esta Política de Privacidade explica como o Coomik Translator ("nós", "nosso" ou "o Aplicativo") coleta, usa e protege as informações quando você utiliza nosso aplicativo móvel. Estamos comprometidos em respeitar sua privacidade e garantindo transparência sobre como seus dados são tratados.
+## 1. Informações que Coletamos
 
----
+O Aplicativo foi desenvolvido para priorizar o processamento local e minimizar a coleta de dados. No entanto, para disponibilizar determinadas funcionalidades (como tradução avançada por IA e exibição de anúncios), alguns dados podem ser processados por terceiros.
 
-## 2. Coleta e Uso de Informações
+### 1.1. Dados Fornecidos pelo Usuário
 
-### 2.1. Dados Pessoais
-Nós não coletamos, armazenamos ou compartilhamos explicitamente informações de identificação pessoal (como nome, e-mail ou número de telefone). O Aplicativo foi projetado para funcionar principalmente como uma ferramenta local para tradução de arquivos de quadrinhos armazenados no seu dispositivo.
+* **Arquivos de Imagem e Texto**: Para realizar traduções, o Aplicativo acessa arquivos (imagens, quadrinhos, mangás) que você seleciona no armazenamento do seu dispositivo.
+* **Conteúdo para Tradução**: Blocos de texto extraídos das imagens podem ser enviados para serviços em nuvem (Google Gemini) exclusivamente para fins de tradução, caso essa opção esteja ativada.
 
-### 2.2. Arquivos e Conteúdo de Mídia
-O Aplicativo requer acesso ao armazenamento do seu dispositivo para ler e processar os arquivos de quadrinhos (.zip, .cbz, imagens) que você deseja traduzir.
+### 1.2. Dados Coletados Automaticamente
 
-- **Processamento Local:** Utilizamos tecnologias de aprendizado de máquina no dispositivo (Google ML Kit) para OCR e detecção de texto. Esse processamento ocorre totalmente no seu dispositivo; nenhum dado bruto das imagens é enviado para nossos servidores.  
-- **Processamento em Nuvem (Opcional):** Se você optar por usar o modelo de tradução “Gemini” (IA do Google), o texto extraído das imagens será enviado para a API Google Gemini para tradução. Não armazenamos esse conteúdo em nossos servidores; ele é processado pela Google conforme suas próprias políticas de privacidade e termos de IA.
+* **Identificadores do Dispositivo**: O Aplicativo utiliza serviços de publicidade (Google AdMob), que podem coletar identificadores de publicidade (como o ID de Publicidade do Android) e dados de uso para exibir anúncios personalizados ou não personalizados.
+* **Dados de Compras**: Ao realizar assinaturas ou compras dentro do Aplicativo (“Premium”), as transações são processadas pela Google Play Store. Recebemos apenas a confirmação da compra e o status da assinatura, sem acesso a dados financeiros sensíveis (como número de cartão de crédito).
 
-### 2.3. Publicidade e Dados do Dispositivo
-O Aplicativo utiliza serviços de terceiros que podem coletar informações usadas para identificação em fins de publicidade e análise.
+## 2. Como Usamos Suas Informações
 
-- **Google AdMob:** Usamos o AdMob para exibir anúncios. O AdMob pode coletar identificadores do dispositivo (como ID de publicidade do Android), endereço IP e dados de uso para fornecer anúncios personalizados e medir desempenho.
+As informações coletadas são utilizadas para:
 
----
+* **Fornecer o Serviço**: Processar OCR (Reconhecimento Óptico de Caracteres) e traduzir o conteúdo das imagens.
+* **Melhorias e Correções**: Monitorar o desempenho do Aplicativo e corrigir erros, por meio de relatórios de falhas anônimos fornecidos pelo Google Play Console.
+* **Publicidade**: Exibir anúncios intersticiais através do Google AdMob (para usuários da versão gratuita).
+* **Gestão de Assinaturas**: Verificar e gerenciar o status “Premium”, removendo anúncios e liberando funcionalidades adicionais.
 
-## 3. Permissões do Aplicativo
-O Coomik Translator solicita as seguintes permissões para funcionar corretamente:
+## 3. Compartilhamento com Terceiros
 
-- **Armazenamento (Ler/Escrever):** Necessário para selecionar arquivos de quadrinhos e salvar versões traduzidas.  
-- **Internet/Rede:** Necessário para acessar a API Google Gemini (tradução via IA) e carregar anúncios do AdMob.  
-- **Notificações:** Utilizado para avisar o usuário quando processos longos de tradução forem finalizados.
+Não vendemos suas informações pessoais. O compartilhamento de dados ocorre apenas com provedores de serviços essenciais para o funcionamento do Aplicativo:
 
----
+* **Google Gemini (Inteligência Artificial Generativa)**:
 
-## 4. Serviços de Terceiros
-Podemos utilizar serviços de terceiros para facilitar o funcionamento do Aplicativo. Recomendamos consultar as políticas desses provedores:
+  * Utilizado para fornecer traduções de alta qualidade.
+  * O texto extraído das imagens é enviado aos servidores do Google para processamento e retornado já traduzido.
+  * Consulte os Termos e a Política do Google Gemini: [https://ai.google.dev/terms](https://ai.google.dev/terms)
 
-- Google Play Services: https://policies.google.com/privacy  
-- Google AdMob: https://support.google.com/admob/answer/6128543  
-- Google Gemini API: https://policies.google.com/privacy  
-- Google ML Kit: https://developers.google.com/ml-kit/terms
+* **Google ML Kit (Processamento no Dispositivo)**:
 
----
+  * Utilizado para OCR e tradução offline.
+  * O processamento ocorre majoritariamente **no próprio dispositivo**, sem envio de imagens para a nuvem, garantindo maior privacidade.
+
+* **Google AdMob**:
+
+  * Responsável pela exibição de anúncios no Aplicativo.
+  * Pode coletar dados para personalização de anúncios.
+  * Consulte a Política de Privacidade do Google: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+* **Google Play Billing**:
+
+  * Responsável pelo processamento de pagamentos e assinaturas.
+
+## 4. Permissões do Dispositivo
+
+O Aplicativo solicita as seguintes permissões para funcionar corretamente:
+
+* **Armazenamento (Leitura e Escrita)**: Necessária para acessar os arquivos selecionados por você e salvar versões traduzidas ou exportadas.
+* **Internet / Rede**: Necessária para acessar APIs de tradução, carregar anúncios e verificar assinaturas.
+* **Notificações**: Utilizadas para informar o progresso de traduções em segundo plano ou a conclusão de tarefas.
 
 ## 5. Segurança dos Dados
-Valorizamos sua confiança ao utilizar nosso Aplicativo. Empregamos métodos comercialmente aceitáveis para proteger seus dados. No entanto, nenhum método de transmissão ou armazenamento eletrônico é 100% seguro.  
-Importante: **não armazenamos nem fazemos backup dos seus arquivos de quadrinhos em nossos servidores.**
 
----
+Adotamos medidas de segurança razoáveis para proteger suas informações. No entanto, nenhum método de transmissão pela internet ou armazenamento eletrônico é totalmente seguro.
+
+* As comunicações com a API do Google Gemini são feitas por conexão segura (HTTPS).
+* Não armazenamos cópias dos seus arquivos em nossos servidores; todo o conteúdo permanece no seu dispositivo.
 
 ## 6. Privacidade de Crianças
-Nossos serviços não são destinados a menores de 13 anos. Não coletamos intencionalmente informações de identificação pessoal de crianças menores de 13 anos.
 
----
+O Aplicativo não é direcionado a crianças menores de 13 anos e não coletamos intencionalmente dados pessoais de crianças. O conteúdo traduzido é de inteira responsabilidade do usuário, que deve garantir que os arquivos utilizados sejam apropriados.
 
-## 7. Alterações nesta Política de Privacidade
-Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos revisar esta página regularmente para verificar alterações. Notificaremos você publicando a versão atualizada nesta página.
+## 7. Seus Direitos
 
----
+Dependendo da sua jurisdição (como a LGPD no Brasil ou o GDPR na União Europeia), você pode ter direitos relacionados aos seus dados, incluindo acesso, correção ou exclusão.
 
-## 8. Contato
-Caso tenha dúvidas ou sugestões sobre esta Política de Privacidade, entre em contato conosco:  
-**rungostudios.oficial@gmail.com**
+Como a maior parte dos dados é processada localmente ou de forma anônima por terceiros, você pode exercer esses direitos:
 
----
+* **No Dispositivo**: Limpando os dados do Aplicativo nas configurações do Android.
+* **Com Parceiros**: Ajustando preferências de anúncios na sua conta Google.
 
-# 9. Termos de Uso (Termos de Serviço)
+## 8. Alterações nesta Política
 
-## 9.1. Escopo do Serviço
-O Coomik Translator é uma ferramenta de software desenvolvida para auxiliar usuários na leitura e tradução de arquivos de quadrinhos digitais. O serviço fornece funcionalidades de OCR e tradução, mas **não** fornece ou distribui conteúdo protegido por direitos autorais (como revistas de quadrinhos).
+Esta Política de Privacidade pode ser atualizada periodicamente. Recomendamos que você revise esta página regularmente. As alterações entram em vigor imediatamente após sua publicação.
 
-## 9.2. Responsabilidade do Usuário
-Ao utilizar o Aplicativo, você concorda que é totalmente responsável pelo conteúdo que envia, traduz ou compartilha.
+## 9. Contato
 
-- **Direitos Autorais:** Você deve garantir que possui permissão ou direitos para traduzir e modificar os arquivos. O Coomik Translator não apoia pirataria.  
-- **Compartilhamento:** Qualquer distribuição dos arquivos traduzidos é de sua inteira responsabilidade.
+Se tiver dúvidas, sugestões ou preocupações relacionadas a esta Política de Privacidade, entre em contato conosco por meio da página do Aplicativo na loja ou pelo e-mail de suporte:
 
-## 9.3. Responsabilidade do Desenvolvedor
-Nos comprometemos a manter o Aplicativo funcional dentro de esforços razoáveis. No entanto:
-
-- Não somos responsáveis pelo conteúdo processado pelos usuários.  
-- Não nos responsabilizamos por falhas ou imprecisões causadas por serviços de terceiros (como Google Gemini ou ML Kit).  
-- Não nos responsabilizamos por danos indiretos ou perda de dados decorrentes do uso do Aplicativo.
-
-## 9.4. Limitações de Garantia
-O Aplicativo é oferecido **“como está”** e **“conforme disponível”**, sem garantias de qualquer tipo. Não garantimos precisão ou ausência de erros nas traduções.
-
-## 9.5. Uso de APIs de Terceiros (IA)
-O uso da IA Gemini está sujeito aos Termos da Google Generative AI. Você concorda em não usar a IA para gerar conteúdo ilegal, odioso ou que viole políticas da Google.
-
----
-
-# 10. Assinaturas e Pagamentos
-
-## 10.1. Plano Premium “Coomik Pro”
-Oferecemos uma assinatura mensal com renovação automática para desbloquear recursos extras.
-
-- **Preço:** R$ 4,99 por mês (ou equivalente local).  
-- **Benefícios:**  
-  - Uso ilimitado do “Modo Editor”.  
-  - Remoção completa de anúncios (banner e intersticial).
-
-## 10.2. Cobrança e Renovação
-A cobrança será feita na sua conta Google Play após a confirmação da compra. A assinatura renova automaticamente, a menos que a opção seja desativada com pelo menos 24h de antecedência.
-
-## 10.3. Cancelamento
-Você pode gerenciar ou cancelar sua assinatura pelas configurações da Google Play Store. O cancelamento só entra em vigor no final do ciclo atual.
-
----
-
-# 11. Alterações do Serviço
-Reservamo-nos o direito de modificar, suspender ou descontinuar qualquer parte do Aplicativo a qualquer momento, com ou sem aviso. Você concorda que não seremos responsáveis por essas modificações ou interrupções.
-
----
+📧 **[rungostudios.oficial@gmail.com](mailto:rungostudios.oficial@gmail.com)**
